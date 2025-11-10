@@ -31,6 +31,23 @@ A beautiful, modern cryptocurrency tracking application built with Flutter. Feat
 - Android Studio / VS Code
 - An Android device or emulator
 
+## 🎥 Demo Video
+
+[Watch Demo Video](https://drive.google.com/file/d/13iZ2plFqbviXOjg9P67OVwyGP6hh0Ym7/view?usp=sharing)
+
+## 📱 Download APK
+
+[Download APK (45.7MB)](https://drive.google.com/file/d/1r0KG7xqGIoFiADcA0t1KigN4GVTD7LkF/view?usp=sharing)
+
+
+### Installation Instructions:
+1. Download the APK file from the link above
+2. On your Android device, go to Settings → Security
+3. Enable "Install from Unknown Sources"
+4. Open the downloaded APK file
+5. Tap "Install"
+6. Open the app and enjoy!
+
 ### Installation
 
 1. **Clone the repository**
@@ -164,7 +181,6 @@ This project is licensed under the MIT License.
 
 ## 👨‍💻 Author
 
-**Your Name**
 - GitHub: [@uchedivine](https://github.com/Uchedivine)
 - LinkedIn: [Uchechukwu Asogwa](https://www.linkedin.com/in/uchechukwu-asogwa-3873b7209/)
 
